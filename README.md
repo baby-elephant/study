@@ -5,8 +5,9 @@
 ## フォルダ構成
 
 ```
-study  -  diary
-       |- img
+├── study/
+│   ├── diary/
+│   └── img/
 ```
 
 ### study
